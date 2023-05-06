@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Scenes/market_2_way.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
