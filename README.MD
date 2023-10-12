@@ -15,7 +15,7 @@ To simulate greed, a "patience" attribute is incorporated for each non-player ch
 
 ## Results and Analysis
 The study found that introducing variability in patience levels among NPCs can potentially lead to more efficient crowd movement with fewer clashes and disruptions. More information can be found in the research paper.
-![alt text](analysis.png "analysis")
+![alt text](analysis.PNG "analysis")
 
 
 ## Potential Applications
